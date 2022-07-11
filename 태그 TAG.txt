@@ -1,0 +1,21 @@
+
+<strong></strong> 굵은글씨 중요글자 강조 
+<u></u> 밑줄 중요글씨 강조
+<h1></h1> h1~h6 제목 줄바꿈
+<br> 줄바꿈
+<p></p> 단락
+<img src="ooo.jpg" width="100%"> 이미지파일 삽입 파일크기
+
+리스트 목록
+<ol></ol> 오더리스트= 숫자 순서대로 자동 삽입
+<ul></ul> 언오더드리스트= 숫자상관없이 앞에 점찍음
+<li></li> 리스트
+
+<title></title> 본문페이지 제목
+<meta charset="utf-8"> 페이지 한글깨질때 utf-8로 읽어라
+<head></head> 타이틀을 감쌈
+<html></html> 소스의 처음과끝
+<!doctype html> 이페이지는 html 로 작성되었다
+
+<a href="https://www.w3.org/TR/html4/" target="_blank" title="html설명서">hypertext markup language (HTML)</a>
+특정 글자에 연결링크만들기 링크 새창으로 열기 링크에 설명첨부하기
